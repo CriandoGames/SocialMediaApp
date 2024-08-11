@@ -47,7 +47,7 @@ O projeto está separado em três MVP´s
 |  ❌ | Mensagens, Grupos, Notificação | 
 
 
-Veja o arquivo do [Mapa mental](https://whimsical.com/rede-social-6UBbX3SJ9EbBRSMnMALTT1@6HYTAunKLgTVZHLsowqA4wWZ9LHV3gA95Wy9epW8wAaCTvF) para mais detalhes.
+Veja o arquivo do [Mapa mental](https://whimsical.com/rede-social-SXpdtqiTQjNUfzMtYnxzDY) para mais detalhes.
 
 
 Este README fornece uma visão geral do projeto, tecnologias e arquitetura utilizados.
